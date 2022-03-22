@@ -56,6 +56,11 @@
 
 <!--<img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 -->
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
+
+
 ---
 ### ⚙ GitHub Analytics
 
