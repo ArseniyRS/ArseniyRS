@@ -57,6 +57,9 @@
 <!--<img alt="gitlab" src="https://img.shields.io/badge/gitlab-380D75.svg?&style=for-the-badge&logo=gitlab&logoColor=fff" />&nbsp;
 -->
 
+---
+
+### 📊 This week i spent my time on:
 <!--START_SECTION:waka-->
 
 ```text
@@ -72,18 +75,6 @@ Other                      13 mins         ⣿⣷⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀�
 <!--END_SECTION:waka-->
 
 
----
-### ⚙ GitHub Analytics
-
-<table>
-  <tr>
-    <td>
-      <img height="195px" align="right" alt="sinkrait's Github Languages" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=sinkrait00&theme=algolia&layout=compact" />
-    </td>
-  </tr>
-</table>
-
----
 
 
 [instagram]: https://www.instagram.com/arseniy.rs
