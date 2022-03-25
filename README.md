@@ -12,6 +12,7 @@
 ### Hi, I'm Rybalov Arseniy <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> 
 
 ## I'm a Developer, Teacher and Mentor!
+<img align="right" alt="GIF" src="https://github.com/sinkrait00/sinkrait00/blob/main/animation" width="408" height="318" />
 - 📍 I’m From Kyrgyzstan (Bishkek)
 - 💻 2 Years Experience in Front-end Development
 - 📚 Mentor & Lecturer in Megacom IT school
