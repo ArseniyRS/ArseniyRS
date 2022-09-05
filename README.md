@@ -1,12 +1,12 @@
 <div align="center">
-  <a href="https://github.com/sinkrait00?tab=repositories&sort=stargazers">
-    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/sinkrait00"/></a>
-  <a href="https://github.com/sinkrait00?tab=repositories&sort=stargazers">
-    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/sinkrait00"/></a>
-  <a href="https://github.com/sinkrait00">
-    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/sinkrait00?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
+  <a href="https://github.com/ArseniyRs?tab=repositories&sort=stargazers">
+    <img alt="total stars" title="Total stars on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=star&color=7c007c&labelColor=640464&label=Stars&style=for-the-badge&query=%24.stars&url=https://api.github-star-counter.workers.dev/user/ArseniyRs"/></a>
+  <a href="https://github.com/ArseniyRs?tab=repositories&sort=stargazers">
+    <img alt="total forks" title="Total forks on GitHub" src="https://custom-icon-badges.herokuapp.com/badge/dynamic/json?logo=fork&color=55960c&labelColor=488207&label=Forks&style=for-the-badge&query=%24.forks&url=https://api.github-star-counter.workers.dev/user/ArseniyRs"/></a>
+  <a href="https://github.com/ArseniyRs">
+    <img alt="followers" title="Follow me on Github" src="https://custom-icon-badges.herokuapp.com/github/followers/ArseniyRs?color=236ad3&labelColor=1155ba&style=for-the-badge&logo=person-add&label=Follow&logoColor=white"/></a>
 </div>
-<img align="right" alt="GIF" src="https://github.com/sinkrait00/sinkrait00/blob/main/animation.gif" width="408" height="318" />
+<img align="right" alt="GIF" src="https://github.com/ArseniyRs/ArseniyRs/blob/main/animation.gif" width="408" height="318" />
 
 ---
 
@@ -14,7 +14,7 @@
 
 ## I'm a Developer, Teacher and Mentor!
 - 📍 I’m From Kyrgyzstan (Bishkek)
-- 💻 2 Years Experience in Front-end Development
+- 💻 3 Years Experience in Front-end Development
 - 📚 Mentor & Lecturer in Megacom IT school
 ---
 ### 💻 Tech Stack:
@@ -81,4 +81,4 @@ INI          14 mins         ⣶⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀⣀
 
 [instagram]: https://www.instagram.com/arseniy.rs
 [linkedin]: https://www.linkedin.com/in/arseniy-rybalov-bb739a222/
-[telegram]: https://t.me/sinkrait
+[telegram]: https://t.me/ArseniyRs
